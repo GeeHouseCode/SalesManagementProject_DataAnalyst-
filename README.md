@@ -84,3 +84,10 @@ FROM
 order by 
   p.ProductKey asc
 ```
+
+#### Data Model
+
+
+
+
+
