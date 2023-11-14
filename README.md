@@ -86,7 +86,8 @@ order by
 ```
 
 #### Data Model
-
+Below I have included a data model created in Power BI.
+![image](https://github.com/GeeHouseCode/SalesRaportProject_DataAnalysis/assets/110656951/d614efd2-4ef8-4780-93d5-0f37e9376025)
 
 
 
