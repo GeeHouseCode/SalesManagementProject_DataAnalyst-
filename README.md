@@ -87,8 +87,13 @@ order by
 
 #### Data Model
 Below I have included a data model created in Power BI.
+
 ![image](https://github.com/GeeHouseCode/SalesRaportProject_DataAnalysis/assets/110656951/d614efd2-4ef8-4780-93d5-0f37e9376025)
 
+#### Sales Raport
+This report in power bi shows sales over time, per customer and by product.
+
+![image](https://github.com/GeeHouseCode/SalesRaportProject_DataAnalysis/assets/110656951/21c9b21d-0cfc-4b02-a1b4-9f366c05dc1b)
 
 
 
